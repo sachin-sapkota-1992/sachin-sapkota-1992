@@ -53,6 +53,13 @@
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="55" alt="vscode logo"  />
 </div>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=sachin-sapkota-1992&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=sachin-sapkota-1992&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sachin-sapkota-1992&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=sachin-sapkota-1992&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ###
 
