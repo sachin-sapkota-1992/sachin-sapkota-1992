@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m currently working on mern<br>- 🌱 I’m currently learning docker<br>- 🤔 I’m looking for help with ...<br>- 💬 Ask me about fullstack<br>- 📫 How to reach me: proxima.sachin.me@gmail.com<br>- 😄 Pronouns: He</p>
+<p align="left">- 🔭 I’m currently working on mern<br>- 🌱 I’m currently learning docker<br>- 🤔 I’m looking for help with low dev's<br>- 💬 Ask me about fullstack<br>- 📫 How to reach me: proxima.sachin.me@gmail.com<br>- 😄 Pronouns: He</p>
 
 ###
 
